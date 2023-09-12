@@ -1,9 +1,9 @@
-# myBibStyle.bst: RevTeX4 Bibliography Styles
+# myBibStyle.bst
 
 This repository hosts both original and modified RevTeX4 `.bst` files. 
 
 ## Motivation
-While the official RevTeX 4.1 and 4.2 templates display full author lists, earlier versions of RevTeX 4 would truncate the list if there were more than 10 authors. To accommodate preferences for concise author listings, I've reintroduced this truncation feature.
+While the official RevTeX 4.1 and 4.2 templates display full author lists, earlier versions of RevTeX 4 would truncate the list if there were more than 10 authors. To accommodate preferences for concise author listings, I've reintroduced this truncation feature (view [example.pdf](example.pdf)).
 
 > **Note**: _APS editors prefer full author lists for references with 15 or fewer authors. For references with more than 15 authors, it's recommended to use the phrase "and others" after listing the first set of authors._
 
@@ -14,5 +14,5 @@ While the official RevTeX 4.1 and 4.2 templates display full author lists, earli
 
 ## Other `.bst` files:
 - `apsrev.bst` - From RevTeX4.
-- `apsrev4-1.bst` - From RevTeX4-2.
+- `apsrev4-1.bst` - From RevTeX4-1.
 - `apsrev4-2.bst` - From RevTeX4-2.
